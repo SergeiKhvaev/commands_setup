@@ -5,4 +5,5 @@ public class SergeiGitCommandClass {
     // clear
     // cd ->
     // cg ..
+    // stage and commit through  git command
 }
